@@ -1,5 +1,4 @@
-# blockchainz
-blockchain sandbox
+
 
 Trying to understand blockchains by making one myself!
 
